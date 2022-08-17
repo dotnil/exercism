@@ -1,3 +1,5 @@
+// https://exercism.org/tracks/javascript/exercises/elyses-destructured-enchantments/solutions/dotnil
+
 export function getFirstCard(deck) {
   return deck[0]
 }

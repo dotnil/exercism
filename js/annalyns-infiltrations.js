@@ -1,3 +1,5 @@
+// https://exercism.org/tracks/javascript/exercises/annalyns-infiltration/solutions/dotnil
+
 export function canExecuteFastAttack(knightIsAwake) {
   return !knightIsAwake
 }

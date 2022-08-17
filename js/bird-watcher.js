@@ -1,3 +1,5 @@
+// https://exercism.org/tracks/javascript/exercises/bird-watcher/solutions/dotnil
+
 export function totalBirdCount(birdsPerDay) {
   let sum = birdsPerDay.reduce(function (a, b) {
     return a + b
